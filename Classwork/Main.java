@@ -7,5 +7,7 @@ public class Main
                  "Spring 2024 - M & W @ 6pm" +
                  "Norman Younis - NYOUNIS@CITYTECH.CUNY.EDU "
                 );
+         System.out.println
+                ("Droped Class");
     }
 }
